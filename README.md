@@ -3,14 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Darma%20👋&fontSize=48&fontAlignY=38&desc=Junior%20Web%20Developer&descAlignY=58&descSize=20" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Web+Developer+in+the+making+🚀;Love+building+clean+%26+useful+apps;Always+learning%2C+always+improving" alt="Typing SVG" />
-</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=6C63FF)
+![Profile Views](https://komarev.com/ghpvc/?username=darma0305E&label=Profile%20Views&color=6C63FF&style=flat-square)
+![Followers](https://img.shields.io/github/followers/darma0305?label=Followers&style=flat-square&color=6C63FF)
 
 <br/>
 
