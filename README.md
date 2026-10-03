@@ -58,17 +58,7 @@
 
 </div>
 
----
 
-## 📌 Featured Projects
-
-| Project | Deskripsi | Tech |
-| :--- | :--- | :--- |
-| [**Nama Proyek 1**](https://github.com/YOUR_GITHUB_USERNAME/repo-1) | Deskripsi singkat proyek | `PHP` `CodeIgniter` `MySQL` |
-| [**Nama Proyek 2**](https://github.com/YOUR_GITHUB_USERNAME/repo-2) | Deskripsi singkat proyek | `React` `Node.js` `MongoDB` |
-| [**Nama Proyek 3**](https://github.com/YOUR_GITHUB_USERNAME/repo-3) | Deskripsi singkat proyek | `Vue` `TypeScript` |
-
----
 
 ## 🌐 Connect With Me
 
