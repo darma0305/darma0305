@@ -12,6 +12,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=6C63FF)
 
+<br/>
+
+<!-- CONTRIBUTION GRAPH (kotak-kotak hijau) -->
+<img src="https://ghchart.rshah.org/darma0305" alt="Contribution Graph" width="90%" />
+
 </div>
 
 ---
@@ -46,8 +51,6 @@
 </div>
 
 ---
-
-
 
 ## 🌐 Connect With Me
 
